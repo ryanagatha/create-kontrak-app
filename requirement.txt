@@ -6,3 +6,4 @@ python-decouple==3.6
 sqlparse==0.4.2
 tzdata==2021.5
 gunicorn
+django_heroku
