@@ -1,4 +1,4 @@
-python==3.9.10
+python
 asgiref==3.5.0
 Django==4.0.2
 psycopg2==2.9.3
