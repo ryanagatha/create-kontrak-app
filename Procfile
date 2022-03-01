@@ -1,1 +1,1 @@
-web: gunicorn app:dola.wsgi
+web: gunicorn dola.wsgi
